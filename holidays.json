@@ -1,0 +1,29 @@
+{
+  "MAJOR_CAT": {
+    "static": {
+      "1/1": "Año nuevo",
+      "2/6": "Día de Reyes",
+      "2/14": "San Valentin",
+      "3/17": "St. Patrick's Day",
+      "4/22": "Dia de La Tierra",
+      "4/30": "Viernes Santo",
+      "5/1": "Dia del trabajador",
+      "5/4": "May the 4th Be With You, Star Wars",
+      "6/24": "Sant Joan",
+      "8/15": "Asunción de la Virgen",
+      "9/11": "Diada Nacional de Catalunya",
+      "10/12": "Fiesta Nacional de España",  
+      "10/31": "Halloween",
+      "11/1": "Todos los Santos",
+      "12/6": "Día de la Constitución",
+      "12/8": "Día de la Inmaculada Concepción",
+      "12/25": "Navidad",
+      "12/26": "Sant Esteve",
+      "12/31": "Final de año"
+    },
+    "dynamic": {
+      "3/19/2019": "Viernes Santo",
+      "4/22/2019": "Lunes de Pascua",
+    }
+  }
+}
